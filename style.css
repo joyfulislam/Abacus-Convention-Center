@@ -1,0 +1,49 @@
+
+/* Package Hover start */
+
+.fair:hover{
+    background-color: #0d6dfdae;
+    border-radius: 5%;
+    transform: translateY(-20px);
+    transition-duration: 1s;
+    
+}
+
+.basic:hover{
+    background-color: #0d6dfdae;
+    border-radius: 5%;
+    transform: translateY(-20px);
+    transition-duration: 1s;
+    
+}
+
+.plus:hover{
+    background-color: #0d6dfdae;
+    border-radius: 5%;
+    transform: translateY(-20px);
+    transition-duration: 1s;
+    
+}
+
+.event:hover{
+    background-color: #0d6dfdae;
+    border-radius: 5%;
+    transform: translateY(-20px);
+    transition-duration: 1s;
+    
+}
+
+/* Package Hover end */
+
+#nav:hover{
+    border-bottom: 2px solid #0a0909c8;
+    color: #343a40 ;
+}
+
+.person1:hover{
+    background-color: #343a4085;
+    border-radius: 5%;
+    transform: translateY(-20px);
+    transition-duration: 1s; 
+    color: white;
+}
